@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏设计文档维护"
+  short_description: "整理游戏目标、选型理由和问题经验，处理需求冲突，让文档持续清楚精炼"
+  default_prompt: "使用 $game-design-docs 整理当前游戏设计文档，核对我的新旧要求，讲清选型理由，按问题汇总踩坑经验并删去流水记录。"
